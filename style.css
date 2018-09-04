@@ -1,9 +1,11 @@
 body {
   font-family: Helvetica;
-  margin: 0;
+  margin: 10;
   padding: 0;
-  background-color: pink;
-  color: green;
+  background-color: black;
+  color: greenyellow;
+}
+    
 }
 
 #container {
@@ -14,19 +16,19 @@ body {
 
 .link {
   list-style: none;
-  color: red;
+  color: gold;
   font-size: 2em;
 }
 
 .link a {
-  color: orange;
+  color: goldenrod;
 }
 
 a {
-  color: red;
+  color: goldenrod;
   transition: color 500ms
 }
 
 a:hover {
-  color: white;
+  color: skyblue;
 }
