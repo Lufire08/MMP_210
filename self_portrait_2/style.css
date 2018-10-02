@@ -18,12 +18,10 @@ body {
   list-style: none;
   color: gold;
   font-size: 2em;
-    display: inline-block;
 }
 
 .link a {
   color: goldenrod;
-    margin-right: 20px;
 }
 
 a {
