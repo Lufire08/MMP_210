@@ -13,8 +13,8 @@ function preload(){
     meeboxImg3=loadImage("Meeseeks_box.png")
     meeboxImg4=loadImage("Meeseeks_box.png")
     meeImg1=loadImage("Meeseeks_1.png")
-    meeImg2=loadImage("Meeseeks_2.png")
-    meeImg3=loadImage("Meeseeks_3.png")
+    meeImg2=loadImage("meeseeks_2.png")
+    meeImg3=loadImage("meeseeks_3.png")
     
 }
 
